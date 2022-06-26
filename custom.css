@@ -1,0 +1,23 @@
+*{
+    padding: 0px; 
+    margin: 0px;
+}
+
+.container {
+
+    display: grid;
+    gap: 10px;
+    background-color: lightcoral;
+    text-align: center;
+    padding: 10px 0;
+    margin: 10px;
+    grid-template-columns: 50px 50px 50px;
+
+}
+
+.grid {
+
+    background-color: green;
+    margin: 20px;
+    padding: 25px;
+}
